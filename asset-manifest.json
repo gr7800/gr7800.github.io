@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.201e0032.css",
-    "main.js": "/static/js/main.3cfae0cf.js",
+    "main.css": "/static/css/main.a99511a9.css",
+    "main.js": "/static/js/main.91a7c156.js",
     "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
     "static/media/mypicuture.jpg": "/static/media/mypicuture.bf3c8ba8df3ba4307adf.jpg",
     "static/media/bg2.gif": "/static/media/bg2.0251b703a29053646981.gif",
     "static/media/indegogo4.jpg": "/static/media/indegogo4.d571c997cd0e9b241464.jpg",
-    "static/media/Guddu_Tiwari_Resume.pdf": "/static/media/Guddu_Tiwari_Resume.e6f8b6079cf31f938693.pdf",
     "static/media/indegogo3.jpg": "/static/media/indegogo3.bd29eec685018f10d35d.jpg",
+    "static/media/Guddu_Tiwari_Resume.pdf": "/static/media/Guddu_Tiwari_Resume.efe721df89a249ca671d.pdf",
     "static/media/coshedule6.jpg": "/static/media/coshedule6.0c7a16f109ea8d243e6f.jpg",
     "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
     "static/media/n3.jpg": "/static/media/n3.97aaccdc8bddffcc3291.jpg",
+    "static/media/hubspot4.jpg": "/static/media/hubspot4.897c3b86302b0a66f722.jpg",
     "static/media/indegogo2.jpg": "/static/media/indegogo2.e5d60babfe2a988f8716.jpg",
+    "static/media/hubspot2.jpg": "/static/media/hubspot2.faad68685c683ebd7877.jpg",
+    "static/media/hubspot8.jpg": "/static/media/hubspot8.981303fd03b67217c749.jpg",
     "static/media/n2.jpg": "/static/media/n2.f55c2464eb802a194cbb.jpg",
+    "static/media/hubspot7.jpg": "/static/media/hubspot7.a10f0f34fcf921375a8b.jpg",
+    "static/media/hubspot3.jpg": "/static/media/hubspot3.42954b84f34e3d4a6ed5.jpg",
     "static/media/n6.jpg": "/static/media/n6.3cd06e975af61cf75dd2.jpg",
     "static/media/Semrush3.jpg": "/static/media/Semrush3.5cf3e239689b36ad5ece.jpg",
+    "static/media/hubspot1.jpg": "/static/media/hubspot1.ae317b0b94485fe9d4d1.jpg",
     "static/media/indegogo5.jpg": "/static/media/indegogo5.23a5365bee94c3be353b.jpg",
     "static/media/Semrush2.jpg": "/static/media/Semrush2.af3176f1dcbb8d70bd72.jpg",
     "static/media/Semrush5.jpg": "/static/media/Semrush5.dfa51d72685c3680d10e.jpg",
+    "static/media/hubspot6.jpg": "/static/media/hubspot6.18115396e44190c5e3ce.jpg",
     "static/media/Semrush1.jpg": "/static/media/Semrush1.943c2085397ce5e3b608.jpg",
     "static/media/coshedule5.jpg": "/static/media/coshedule5.ebe993c5c12e5b82acac.jpg",
     "static/media/coshedule1.jpg": "/static/media/coshedule1.142a956c03718cb5ae02.jpg",
@@ -34,6 +41,7 @@
     "static/media/coshedule7.jpg": "/static/media/coshedule7.73ea3b24458bc2fbfbe7.jpg",
     "static/media/n5.jpg": "/static/media/n5.df00bb4140df6934f257.jpg",
     "static/media/reducs.jpg": "/static/media/reducs.393c075e2970664559aa.jpg",
+    "static/media/hubspot5.jpg": "/static/media/hubspot5.21867ee76484e9371fe0.jpg",
     "static/media/coshedule3.jpg": "/static/media/coshedule3.f510990ad92f26c236c3.jpg",
     "static/media/Semrush8.jpg": "/static/media/Semrush8.b237b14c81a0d8a6aa91.jpg",
     "static/media/indegogo8.jpg": "/static/media/indegogo8.c2e8bf43ad79e13fb1d0.jpg",
@@ -51,11 +59,11 @@
     "static/media/chak.jpg": "/static/media/chak.22937fcd5af2100437bd.jpg",
     "static/media/type.png": "/static/media/type.c30f3f3610e109e285f1.png",
     "index.html": "/index.html",
-    "main.201e0032.css.map": "/static/css/main.201e0032.css.map",
-    "main.3cfae0cf.js.map": "/static/js/main.3cfae0cf.js.map"
+    "main.a99511a9.css.map": "/static/css/main.a99511a9.css.map",
+    "main.91a7c156.js.map": "/static/js/main.91a7c156.js.map"
   },
   "entrypoints": [
-    "static/css/main.201e0032.css",
-    "static/js/main.3cfae0cf.js"
+    "static/css/main.a99511a9.css",
+    "static/js/main.91a7c156.js"
   ]
 }
