@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3d713486.css",
-    "main.js": "/static/js/main.e81e9db1.js",
+    "main.js": "/static/js/main.05cf453c.js",
     "static/media/bg1.gif": "/static/media/bg1.d4a402f4b5da5590c675.gif",
     "static/media/mypicuture.jpg": "/static/media/mypicuture.bf3c8ba8df3ba4307adf.jpg",
     "static/media/bg2.gif": "/static/media/bg2.0251b703a29053646981.gif",
-    "static/media/Guddu_Tiwari_Resume.pdf": "/static/media/Guddu_Tiwari_Resume.8bf00c1383aa2e787ba9.pdf",
     "static/media/indegogo4.jpg": "/static/media/indegogo4.d571c997cd0e9b241464.jpg",
+    "static/media/Guddu_Tiwari_Resume.pdf": "/static/media/Guddu_Tiwari_Resume.85ffee40a3c22f314f92.pdf",
     "static/media/indegogo3.jpg": "/static/media/indegogo3.bd29eec685018f10d35d.jpg",
     "static/media/coshedule6.jpg": "/static/media/coshedule6.0c7a16f109ea8d243e6f.jpg",
     "static/media/nodejs.jpg": "/static/media/nodejs.d014a8eebcc3ed0c454e.jpg",
@@ -61,10 +61,10 @@
     "static/media/type.png": "/static/media/type.c30f3f3610e109e285f1.png",
     "index.html": "/index.html",
     "main.3d713486.css.map": "/static/css/main.3d713486.css.map",
-    "main.e81e9db1.js.map": "/static/js/main.e81e9db1.js.map"
+    "main.05cf453c.js.map": "/static/js/main.05cf453c.js.map"
   },
   "entrypoints": [
     "static/css/main.3d713486.css",
-    "static/js/main.e81e9db1.js"
+    "static/js/main.05cf453c.js"
   ]
 }
