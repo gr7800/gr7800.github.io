@@ -1,0 +1,181 @@
+* {
+  font-family: Ubuntu, sans-serif;
+}
+
+.navH {
+  width: 80%;
+  font-size: 1.0625rem; /* 17px */
+}
+.navH:hover {
+  text-decoration: underline;
+  padding: 0.3125rem 0 0.3125rem 0; /* 5px */
+  transition: all 0.2s ease-in-out;
+  transform: scale(1.2);
+}
+
+.Nab {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.tagLine {
+  /* display: flex; */
+  justify-content: center;
+  margin-top: 1.25rem; /* 20px */
+}
+
+#madeByGuddu {
+  width: 0ch;
+  overflow: hidden;
+  white-space: nowrap;
+  animation: tagline 10s infinite alternate;
+}
+
+@keyframes tagline {
+  0% {
+    width: 0ch;
+  }
+  50% {
+    width: 23.5ch;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .mainBox {
+    gap: 1.875rem; /* 30px */
+  }
+
+  .box {
+    min-height: 11.25rem; /* 180px */
+  }
+
+  textarea {
+    min-height: 11.25rem; /* 180px */
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .mainBox {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 3.75rem; /* 60px */
+  }
+
+  .box {
+    min-height: 9.375rem; /* 150px */
+    margin-top: 1.25rem; /* 20px */
+  }
+
+  textarea {
+    min-height: 9.375rem; /* 150px */
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbar > h1 {
+    font-size: 1.75rem; /* 28px */
+  }
+}
+
+/* -----------------------scroll----------------- */
+
+::-webkit-scrollbar {
+  width: 0.8125rem; /* 13px */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #fe9119;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #fe9119;
+}
+
+.mainDiv {
+  padding-top: 4.375rem; /* 70px */
+}
+.mainDivProject {
+  padding-top: 4.375rem; /* 70px */
+  padding-bottom: 4.375rem; /* 70px */
+}
+
+.AboutList > li {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 380;
+}
+.ProjectDiv > div {
+  box-shadow: rgba(0, 0, 0, 0.24) 0rem 0.1875rem 0.5rem; /* 0px 3px 8px */
+  border: 0.125rem solid #fe8f191b; /* 2px */
+}
+
+.ProjectDiv > div:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.SkillsDiv > div {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.SkillsDiv > div:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#Message {
+  width: 99%;
+  margin-top: 1rem; /* 16px */
+  border-bottom: 0.0625rem solid grey; /* 1px */
+}
+.form-control {
+  font-size: 17px;
+}
+.github_Calender {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+@media all and (min-width: 0px) and (max-width: 779px) {
+  .HomeMain {
+    display: grid;
+    grid-template-areas:
+      "B"
+      "A";
+    gap: 3.125rem; /* 50px */
+  }
+  .HomeBox1 {
+    grid-area: A;
+  }
+  .HomeBox2 {
+    grid-area: B;
+  }
+}
+
+.HomeYellowBg {
+  background-image: url("../Image/yellowBrushImg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+/* 
+.githubDiv{
+  margin-bottom: 10%;
+} */
+
+#Message {
+  border: 0.0625rem solid #ffff; /* 1px */
+  border-radius: 0.625rem; /* 10px */
+  padding: 0.625rem; /* 10px */
+}
